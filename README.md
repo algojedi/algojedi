@@ -1,4 +1,4 @@
-### Hello World!  👋
+### Hello World, my name is Sukhdev!  👋
 
 - 🔭 I’m currently working on C# and WPF, UWP
 - 📖 I’m currently learning as much as I can about software development
