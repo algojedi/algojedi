@@ -1,13 +1,9 @@
 ### Hello World!  👋
 
 - 🔭 I’m currently working on C# and WPF, UWP
-- 🌱 I’m currently learning as much as I can about software development
-- 👯 I’m looking to collaborate on a large full stack application.
-- ⚡ Fun fact: I enjoy playing chess and learning french
--->
-<a href="https://github.com/sabesansathananthan">
-<img align="center" alt="algojedi's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=algojedi&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+- 📖 I’m currently learning as much as I can about software development
+- 💙 I love the MERN stack
+- 🙌 I’m looking to collaborate on a large full stack application.
+- ⚡ Fun fact: I enjoy playing chess and learning French
 
-<a href="https://github.com/algojedi">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=algojedi&layout=compact&theme=radical" />
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=algojedi&&show_icons=true&title_color=ffffff&include_all_commits=true&count_private=true&icon_color=bb2acf&text_color=daf7dc&bg_color=162252"/>
