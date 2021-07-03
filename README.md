@@ -1,6 +1,6 @@
 ### Hello World, my name is Sukhdev!  👋
 
-- 🔭 I’m currently working on C# and WPF, UWP
+- 🔭 I’m currently working on test-driven development with a node rest api in typescript
 - 📖 I’m currently learning as much as I can about software development
 - 💙 I love the MERN stack
 - 🙌 I’m looking to collaborate on a large full stack application.
